@@ -1,24 +1,25 @@
-# 📊 Student Grades Analyzer
+# 🚀 My Data Science Journey
 
-### 📝 Project Description
-This is a data analysis project built using **Python** and the **NumPy** library.
-The script analyzes a dataset of student grades to perform statistical calculations and filter data based on performance criteria. It serves as a practical application of array manipulation and data analysis basics.
+### 📝 Overview
+This repository documents my journey in mastering **Data Science**. It contains practical projects and scripts demonstrating my progress in Python, NumPy, and Data Analysis.
 
-### ✨ Key Features
-* **Statistical Analysis:** Calculates the Average (Mean), Maximum, and Minimum grades.
-* **Data Filtering:** Identifies and extracts passing grades (e.g., grades >= 50).
-* **NumPy Implementation:** Utilizes efficient NumPy arrays for fast calculations.
+---
 
-### 🛠️ Technologies Used
-* Python 3.x
-* NumPy Library
+## 📂 Projects
 
-### 🚀 How to Run
-1.  Make sure you have NumPy installed:
-    ```bash
-    pip install numpy
-    ```
-2.  Run the script directly:
-    ```bash
-    python grades_analysis.py
-    ```
+### 1. 💼 Corporate Sales Simulator (`sales_simulator.py`)
+A simulation project using **2D NumPy Arrays** to analyze sales data for a company with multiple branches.
+* **Key Skills:** Matrix operations, Data Filtering, Aggregation (Sum/Mean), and Critical Incident Detection.
+* **Technology:** Python, NumPy.
+
+### 2. 📊 Student Grades Analyzer (`grades_analysis.py`)
+A basic analysis script to calculate student grade statistics.
+* **Key Skills:** Basic Array creation, Statistical calculations (Mean/Max/Min).
+* **Technology:** Python, NumPy.
+
+---
+
+### 🛠️ Tools & Technologies
+* **Language:** Python 3.x
+* **Libraries:** NumPy
+* **Tools:** VS Code, Git & GitHub
