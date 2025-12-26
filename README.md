@@ -16,7 +16,7 @@ This repository documents my journey in mastering **Data Science**. It features 
 ### 1. 🛒 Supermarket Sales Analysis (`analysis.py`)
 A comprehensive project that transforms raw retail data into actionable business insights and visual charts.
 * **Key Skills:** Data Cleaning, Feature Engineering, Grouping (GroupBy), Pivot Tables, and **Data Visualization**.
-* **Technology:** Python, Pandas, Matplotlib, Seaborn.
+* **Technology:** Python, Numpy, Pandas, Matplotlib, Seaborn.
 
 ### 2. 💼 Corporate Sales Simulator (`sales_simulator.py`)
 A simulation project using **2D NumPy Arrays** to analyze sales data for a company with multiple branches.
