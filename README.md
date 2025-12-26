@@ -6,8 +6,7 @@ This repository documents my journey in mastering **Data Science**. It features 
 ---
 
 ## 📊 Project Highlights
-![Sales Analysis Chart](<img width="1366" height="723" alt="sales_by_city" src="https://github.com/user-attachments/assets/cc6cbe08-97bf-4f5c-b04d-cd0e196e9daa" />
-)
+![Sales Analysis Chart](sales_by_city.png)
 *Visualizing sales performance across different cities using Matplotlib & Seaborn.*
 
 ---
