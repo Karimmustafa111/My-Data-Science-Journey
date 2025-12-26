@@ -11,10 +11,10 @@ Welcome to my portfolio! This repository documents my path to mastering **Data S
 A sophisticated simulation project analyzing **1,000 user sessions** for an e-commerce platform. It integrates **NumPy** for data generation, **Pandas** for feature engineering, and **Seaborn** to reveal hidden patterns.
 
 ### 📊 Key Visualizations
-| User Segments | Correlation Analysis |
-| :---: | :---: |
-| ![Age Dist](age_distribution.png) | ![Heatmap](correlation_heatmap.png) |
-| *Analyzing user demographics* | *Discovering conversion drivers* |
+| Browser Analysis | User Segments | Correlation Matrix |
+| :---: | :---: | :---: |
+| ![Browser Time](browser_time_analysis.png) | ![Age Dist](age_distribution.png) | ![Heatmap](correlation_heatmap.png) |
+| *Time spent per browser* | *User demographics* | *Conversion drivers* |
 
 > **Business Insight:** The analysis explores the relationship between "Time Spent" on the site and the likelihood of "Adding to Cart", helping marketing teams target the right audience.
 
