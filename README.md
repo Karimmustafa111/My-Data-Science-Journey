@@ -48,3 +48,23 @@ A foundational script for statistical analysis.
 
 ---
 *Created with ❤️ and Python.*
+
+---
+
+---
+
+## 🚢 Project 2: Titanic Survival Analysis (Real-World Data)
+**File:** `titanic_eda.py` (or `titanic_eda.ipynb`)
+
+This project marks my transition from simulated data to **real-world datasets**. Using the famous Titanic dataset, I performed a comprehensive **Exploratory Data Analysis (EDA)** to determine the factors that influenced survival rates.
+
+### 🔍 Key Challenges Solved:
+* **Data Cleaning:** Handled missing values (Imputation) in `Age` and `Embarked` columns, and made strategic decisions to drop the `Deck` column due to excessive missing data.
+* **Feature Engineering:** Analyzed the impact of "Class", "Gender", and "Age" on survival probability.
+* **Visualization:** Used **Seaborn** to create compelling charts that revealed:
+    * Women had a much higher survival rate than men.
+    * 1st Class passengers were prioritized during rescue.
+
+**Tech Stack:** `Pandas` (Cleaning & Manipulation), `Seaborn` (Visualization), `Matplotlib`.
+
+---
