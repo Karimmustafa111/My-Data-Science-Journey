@@ -67,4 +67,11 @@ This project marks my transition from simulated data to **real-world datasets**.
 
 **Tech Stack:** `Pandas` (Cleaning & Manipulation), `Seaborn` (Visualization), `Matplotlib`.
 
+### 📊 Key Visualizations
+
+**1. Survival by Gender (Women vs Men)**
+![Survival by Gender](titanic_survival_by_gender.png)
+
+**2. Survival by Passenger Class**
+![Survival by Class](titanic_survival_by_class.png)
 ---
