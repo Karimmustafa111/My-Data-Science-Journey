@@ -51,8 +51,6 @@ A foundational script for statistical analysis.
 
 ---
 
----
-
 ## 🚢 Project 2: Titanic Survival Analysis (Real-World Data)
 **File:** `titanic_eda.py` (or `titanic_eda.ipynb`)
 
@@ -75,3 +73,15 @@ This project marks my transition from simulated data to **real-world datasets**.
 **2. Survival by Passenger Class**
 ![Survival by Class](titanic_survival_by_class.png)
 ---
+
+## 🤖 Machine Learning Model (Logistic Regression)
+After analyzing the data, I built a **Logistic Regression** model to predict passenger survival.
+
+### 🏆 Results:
+* **Model Accuracy:** **80.34%** (On Unseen Test Data).
+* **Key Insight:** The model confirmed that **Gender** and **Class** were the most dominant features for survival prediction, while Age had a lesser impact than expected.
+
+### 🧠 Feature Importance:
+![Feature Importance](feature_importance.png)
+* *Positive bars (Right) = Increased chance of survival (e.g., Females).*
+* *Negative bars (Left) = Decreased chance of survival (e.g., Lower Class).*
